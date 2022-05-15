@@ -1,6 +1,7 @@
 statelist = {
     1: "Alabama",
     2: "Alaska",
+    4: "Arizona",
     5: "Arkansas",
     6: "California",
     8: "Colorado",
@@ -12,6 +13,8 @@ statelist = {
     16: "Idaho",
     17: "Illinois",
     18: "Indiana",
+    19: "Iowa",
+    20: "Kansas",
     21: "Kentucky",
     22: "Louisiana",
     24: "Maryland",
